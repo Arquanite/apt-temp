@@ -53,10 +53,6 @@ How I can install apt-temp?
 ---------------------------
 
 1. Clone this repo:
-
-```shell
-git clone https://github.com/arquanite/apt-temp
-    ```
 2. cd into apt-temp folder.
 3. *make*
 4. *sudo make install*
